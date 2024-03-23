@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/nish1102/nish1102/main/images/web-development.png" alt="Web Development" width="200" height="200">
-  <img src="https://raw.githubusercontent.com/nish1102/nish1102/main/images/docker.png" alt="Docker" width="200" height="200">
+  <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" width="20" height="20">
   <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" width="20" height="20">
   <img src="https://raw.githubusercontent.com/nish1102/nish1102/main/images/terraform.png" alt="Terraform" width="200" height="200">
   <img src="https://raw.githubusercontent.com/nish1102/nish1102/main/images/azure.png" alt="Azure" width="200" height="200">
