@@ -60,6 +60,9 @@
    <a href="https://www.linkedin.com/in/nishant-amar-3ab676193/">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="Linkdin" width="40" height="40">
   </a>
+   <a href="https://www.youtube.com/@nothingjustcode">
+    <img src="https://img.icons8.com/color/48/youtube-squared.png" alt="Youtube" width="40" height="40">
+  </a>
 </p>
 
 <!-- Footer -->
