@@ -62,7 +62,6 @@
   </a>
 </p>
 
-<!-- Footer -->
 
 
 <h3 align="center">Thank you for visiting! 😊</h3>
