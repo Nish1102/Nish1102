@@ -62,6 +62,9 @@
   </a>
 </p>
 
-
+<!-- Footer -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nish1102/nish1102/main/images/docker-kubernetes.png" alt="Docker and Kubernetes" width="400" height="200">
+</div>
 
 <h3 align="center">Thank you for visiting! 😊</h3>
