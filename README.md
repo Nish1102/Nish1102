@@ -10,12 +10,12 @@
 <h2 align="center">Key Responsibilites and Expertise</h2>
 
 <div align="center">
-  <img src="https://img.icons8.com/ios-filled/50/google-code.png" alt="Web Development" width="200" height="200">
-  <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" width="48" height="48">
-  <img src="https://img.icons8.com/fluency/48/azure-1.png" alt="Azure" width="48" height="48">
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="48" height="48">
+  <img src="https://img.icons8.com/nolan/64/google-code.png" alt="Web Development" width="30" height="30">
+  <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" width="30" height="30">
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" width="30" height="30">
+  <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" width="30" height="30">
+  <img src="https://img.icons8.com/fluency/48/azure-1.png" alt="Azure" width="30" height="30">
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="30" height="30">
 </div>
 
 <p align="center">
