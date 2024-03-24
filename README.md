@@ -24,27 +24,22 @@
     Here are some of my key responsibilities and expertise:
   </samp>
 </p>
-
 <ul align="center">
-  ## Tasks
-
-## Tasks
-
-- <span style="color:#007bff">Checking Email and Jira Tickets:</span> Ensuring smooth communication and task management.
-- <span style="color:#007bff">Monitoring Notifications:</span> Vigilantly monitoring system alerts and notifications for proactive issue resolution.
-- <span style="color:#007bff">Developing Jenkins Jobs:</span> Developing and maintaining Jenkins jobs for efficient deployment processes.
-- <span style="color:#007bff">Deploying Code:</span> Handling code deployments on both development and production servers.
-- <span style="color:#007bff">Creating Docker Images:</span> Crafting Docker images tailored for specific applications.
-- <span style="color:#007bff">Managing Docker Containers:</span> Proficiently managing Docker containers in diverse environments.
-- <span style="color:#007bff">Orchestrating Kubernetes Deployments:</span> Orchestrating Kubernetes deployments for efficient microservices management.
-- <span style="color:#007bff">Configuring Kubernetes Services:</span> Configuring Kubernetes services (svc) to support application components.
-- <span style="color:#007bff">Monitoring and Scaling:</span> Proactively monitoring and scaling Kubernetes deployments as needed for optimal performance.
-- <span style="color:#007bff">Troubleshooting:</span> Identifying and resolving issues related to Docker and Kubernetes to maintain system stability.
-- <span style="color:#007bff">Cluster Maintenance:</span> Keeping Docker and Kubernetes clusters up to date with the latest versions for enhanced security and performance.
-- <span style="color:#007bff">CI/CD Pipelines:</span> Implementing CI/CD pipelines tailored for Dockerized and Kubernetes-based applications to streamline development workflows.
-- <span style="color:#007bff">Terraform Infrastructure:</span> Leveraging Terraform for infrastructure provisioning, utilizing modules and state files, and managing workspaces for enhanced collaboration and resource isolation.
-
+  <li>Checking Email and Jira Tickets: Ensuring smooth communication and task management.</li>
+  <li>Monitoring Notifications: Vigilantly monitoring system alerts and notifications for proactive issue resolution.</li>
+  <li>Developing Jenkins Jobs: Developing and maintaining Jenkins jobs for efficient deployment processes.</li>
+  <li>Deploying Code: Handling code deployments on both development and production servers.</li>
+  <li>Creating Docker Images: Crafting Docker images tailored for specific applications.</li>
+  <li>Managing Docker Containers: Proficiently managing Docker containers in diverse environments.</li>
+  <li>Orchestrating Kubernetes Deployments: Orchestrating Kubernetes deployments for efficient microservices management.</li>
+  <li>Configuring Kubernetes Services: Configuring Kubernetes services (svc) to support application components.</li>
+  <li>Monitoring and Scaling: Proactively monitoring and scaling Kubernetes deployments as needed for optimal performance.</li>
+  <li>Troubleshooting: Identifying and resolving issues related to Docker and Kubernetes to maintain system stability.</li>
+  <li>Cluster Maintenance: Keeping Docker and Kubernetes clusters up to date with the latest versions for enhanced security and performance.</li>
+  <li>CI/CD Pipelines: Implementing CI/CD pipelines tailored for Dockerized and Kubernetes-based applications to streamline development workflows.</li>
+  <li>Terraform Infrastructure: Leveraging Terraform for infrastructure provisioning, utilizing modules and state files, and managing workspaces for enhanced collaboration and resource isolation.</li>
 </ul>
+
 
 <!-- Contact Information -->
 <h2 align="center">Connect with Me</h2>
