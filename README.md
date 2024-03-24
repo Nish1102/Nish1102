@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center"><span style="color:pink;">Hi there! 👋</span></h1>
 <p align="center">
   <samp>
     I'm Nishant Amar, a tech enthusiast fueled by a master's degree and a profound passion for digital advancement. Welcome to my GitHub profile!
