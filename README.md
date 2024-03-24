@@ -1,6 +1,6 @@
 <!-- Header -->
-  <h1 align="center">  नमस्ते (Namaste), I am [Nishant Amar](https://nishantamar-portfolio.netlify.app) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></a>
-  </h1>
+ <h1 align="center">नमस्ते (Namaste), I am <a href="https://nishantamar-portfolio.netlify.app">Nishant Amar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></h1>
+
 <p align="center">
   <samp>
     I'm Nishant Amar, a tech enthusiast fueled by a master's degree and a profound passion for digital advancement. Welcome to my GitHub profile!
