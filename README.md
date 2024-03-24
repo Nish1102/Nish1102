@@ -19,11 +19,13 @@
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="30" height="30">
 </div>
 
+
 <p align="center">
   <samp>
     Here are some of my key responsibilities and expertise:
   </samp>
 </p>
+
 <ul align="center">
   <li>Checking Email and Jira Tickets: Ensuring smooth communication and task management.</li>
   <li>Monitoring Notifications: Vigilantly monitoring system alerts and notifications for proactive issue resolution.</li>
