@@ -28,6 +28,8 @@
 <ul align="center">
   ## Tasks
 
+## Tasks
+
 - <span style="color:#007bff">Checking Email and Jira Tickets:</span> Ensuring smooth communication and task management.
 - <span style="color:#007bff">Monitoring Notifications:</span> Vigilantly monitoring system alerts and notifications for proactive issue resolution.
 - <span style="color:#007bff">Developing Jenkins Jobs:</span> Developing and maintaining Jenkins jobs for efficient deployment processes.
