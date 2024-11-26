@@ -16,7 +16,7 @@
   <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker" width="30" height="30">
   <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" width="30" height="30">
   <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" width="30" height="30">
-  <img src="https://img.icons8.com/fluency/48/azure-1.png" alt="Azure" width="30" height="30">
+  <img src="https://img.icons8.com/windows/32/amazon-web-services.png" alt="Aws" width="30" height="30">
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="30" height="30">
 </div>
 
