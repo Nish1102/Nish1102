@@ -42,6 +42,10 @@
   </ul>
 </div>
 
+
+
+<!-- Footer -->
+<h3 align="center">
 <!-- Contact Information -->
 <h2 align="center">Connect with Me</h2>
 
@@ -70,8 +74,8 @@
   </a>
 </div>
 
-<!-- Footer -->
-<h3 align="center">
+
+  
   Thank you for visiting! 😊 <br>
   <samp>Feel free to explore my repositories and connect for exciting collaborations.</samp>
 </h3>
