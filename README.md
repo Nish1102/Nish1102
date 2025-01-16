@@ -19,6 +19,7 @@
   <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" width="40" height="40">
   <img src="https://img.icons8.com/windows/32/FAB005/amazon-web-services.png" alt="AWS" width="40" height="40">
   <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40">
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-dashboard-ux-flat-flat-juicy-fish.png" alt="Dashboards" width="40" height="40">
 </div>
 
 <p align="center">
@@ -27,8 +28,8 @@
   </samp>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <ul style="text-align:right; max-width: 700px;">
+<div align="right" style="display: flex; justify-content: flex-end; flex-wrap: wrap; gap: 20px;">
+  <ul style="text-align: right; max-width: 700px;">
     <li><b>Email & Jira Management:</b> Ensuring smooth communication and task tracking.</li>
     <li><b>Proactive Monitoring:</b> Keeping a vigilant eye on system alerts and notifications.</li>
     <li><b>Jenkins Jobs:</b> Developing and maintaining Jenkins jobs for streamlined deployment.</li>
@@ -47,29 +48,33 @@
 
 <p align="center">
   <samp>
-    Let's connect! You can reach me through the following channels:
+    Let's connect! Reach out to me on any of these platforms:
   </samp>
 </p>
 
-<p align="center">
-  <a href="mailto:nishantamar09@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/filled-message.png" alt="Email" width="40" height="40">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <a href="mailto:nishantamar09@gmail.com" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluency/48/filled-message.png" alt="Email" width="45" height="45">
+    <p style="font-size: 14px; text-align: center; color: #444;">Email</p>
   </a>
-  
-  <a href="https://gitlab.com/Nish1102">
-    <img src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab" width="40" height="40">
+  <a href="https://gitlab.com/Nish1102" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab" width="45" height="45">
+    <p style="font-size: 14px; text-align: center; color: #444;">GitLab</p>
   </a>
-   <a href="https://www.linkedin.com/in/nishant-amar-3ab676193/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="Linkdin" width="40" height="40">
+  <a href="https://www.linkedin.com/in/nishant-amar-3ab676193/" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="45" height="45">
+    <p style="font-size: 14px; text-align: center; color: #444;">LinkedIn</p>
   </a>
-   <a href="https://www.youtube.com/@nothingjustcode">
-    <img src="https://img.icons8.com/color/48/youtube-squared.png" alt="Youtube" width="40" height="40">
+  <a href="https://www.youtube.com/@nothingjustcode" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/youtube-squared.png" alt="YouTube" width="45" height="45">
+    <p style="font-size: 14px; text-align: center; color: #444;">YouTube</p>
   </a>
-</p>
+</div>
 
 <!-- Footer -->
+<h3 align="center">
+  Thank you for visiting! 😊 <br>
+  <samp>Feel free to explore my repositories and connect for exciting collaborations.</samp>
+</h3>
 
-
-<h3 align="center">Thank you for visiting! 😊
-Feel free to explore my repositories and connect for exciting collaborations.</h3>
 
