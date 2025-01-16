@@ -28,7 +28,7 @@
 </p>
 
 <ul align="center">
-  <li>Checking Email and Jira Tickets: Ensuring smooth communication and task management.</li>
+<li>Checking Email and Jira Tickets: Ensuring smooth communication and task management.</li>
   <li>Monitoring Notifications: Vigilantly monitoring system alerts and notifications for proactive issue resolution.</li>
   <li>Developing Jenkins Jobs: Developing and maintaining Jenkins jobs for efficient deployment processes.</li>
   <li>Deploying Code: Handling code deployments on both development and production servers.</li>
