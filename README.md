@@ -28,7 +28,7 @@
 </p>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <ul style="text-align: left; max-width: 700px;">
+  <ul style="text-align:right; max-width: 700px;">
     <li><b>Email & Jira Management:</b> Ensuring smooth communication and task tracking.</li>
     <li><b>Proactive Monitoring:</b> Keeping a vigilant eye on system alerts and notifications.</li>
     <li><b>Jenkins Jobs:</b> Developing and maintaining Jenkins jobs for streamlined deployment.</li>
