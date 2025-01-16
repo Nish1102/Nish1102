@@ -18,8 +18,7 @@
   <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes" width="40" height="40">
   <img src="https://img.icons8.com/color/48/terraform.png" alt="Terraform" width="40" height="40">
   <img src="https://img.icons8.com/windows/32/FAB005/amazon-web-services.png" alt="AWS" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40">
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-dashboard-ux-flat-flat-juicy-fish.png" alt="Dashboards" width="40" height="40">
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python" width="40" height="40">  
 </div>
 
 <p align="center">
@@ -29,7 +28,7 @@
 </p>
 
 <div align="right" style="display: flex; justify-content: flex-end; flex-wrap: wrap; gap: 20px;">
-  <ul style="text-align: right; max-width: 700px;">
+  <ul style="text-align: left; max-width: 700px;">
     <li><b>Email & Jira Management:</b> Ensuring smooth communication and task tracking.</li>
     <li><b>Proactive Monitoring:</b> Keeping a vigilant eye on system alerts and notifications.</li>
     <li><b>Jenkins Jobs:</b> Developing and maintaining Jenkins jobs for streamlined deployment.</li>
