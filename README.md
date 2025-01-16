@@ -27,7 +27,7 @@
   </samp>
 </p>
 
-<ul align="left">
+<ul align="right">
 <li>Checking Email and Jira Tickets: Ensuring smooth communication and task management.</li>
   <li>Monitoring Notifications: Vigilantly monitoring system alerts and notifications for proactive issue resolution.</li>
   <li>Developing Jenkins Jobs: Developing and maintaining Jenkins jobs for efficient deployment processes.</li>
