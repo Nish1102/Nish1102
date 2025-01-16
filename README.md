@@ -71,6 +71,5 @@
 
 
 <h3 align="center">Thank you for visiting! 😊
- <samp>Feel free to explore my repositories and connect for exciting collaborations.</samp>
- </h3>
+Feel free to explore my repositories and connect for exciting collaborations.</h3>
 
