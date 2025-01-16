@@ -3,8 +3,7 @@
 
 
 <p align="center">
-  <samp>I'm Nishant Amar, a tech enthusiast fueled by a master's degree and a profound passion for digital advancement. Welcome to my GitHub profile!</samp>
-</p>
+I'm Nishant Amar, a tech enthusiast fueled by a master's degree and a profound passion for digital advancement. Welcome to my GitHub profile!</p>
 <!-- Main Content -->
 <h2 align="center">Key Responsibilites and Expertise</h2>
 
