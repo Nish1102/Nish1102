@@ -42,40 +42,35 @@
   </ul>
 </div>
 
-
-
-<!-- Footer -->
-<h3 align="center">
 <!-- Contact Information -->
 <h2 align="center">Connect with Me</h2>
 
 <p align="center">
   <samp>
-    Let's connect! Reach out to me on any of these platforms:
+    Let's connect! You can reach me through the following channels:
   </samp>
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="mailto:nishantamar09@gmail.com" style="text-decoration: none;">
-    <img src="https://img.icons8.com/fluency/48/filled-message.png" alt="Email" width="45" height="45">
-    <p style="font-size: 14px; text-align: center; color: #444;">Email</p>
+<p align="center">
+  <a href="mailto:nishantamar09@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/filled-message.png" alt="Email" width="40" height="40">
   </a>
-  <a href="https://gitlab.com/Nish1102" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab" width="45" height="45">
-    <p style="font-size: 14px; text-align: center; color: #444;">GitLab</p>
-  </a>
-  <a href="https://www.linkedin.com/in/nishant-amar-3ab676193/" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="45" height="45">
-    <p style="font-size: 14px; text-align: center; color: #444;">LinkedIn</p>
-  </a>
-  <a href="https://www.youtube.com/@nothingjustcode" style="text-decoration: none;">
-    <img src="https://img.icons8.com/color/48/youtube-squared.png" alt="YouTube" width="45" height="45">
-    <p style="font-size: 14px; text-align: center; color: #444;">YouTube</p>
-  </a>
-</div>
-
-
   
-  Thank you for visiting! 😊 <br>
-  <samp>Feel free to explore my repositories and connect for exciting collaborations.</samp>
-</h3>
+  <a href="https://gitlab.com/Nish1102">
+    <img src="https://img.icons8.com/color/48/gitlab.png" alt="GitLab" width="40" height="40">
+  </a>
+   <a href="https://www.linkedin.com/in/nishant-amar-3ab676193/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="Linkdin" width="40" height="40">
+  </a>
+   <a href="https://www.youtube.com/@nothingjustcode">
+    <img src="https://img.icons8.com/color/48/youtube-squared.png" alt="Youtube" width="40" height="40">
+  </a>
+</p>
+
+<!-- Footer -->
+
+
+<h3 align="center">Thank you for visiting! 😊
+ <samp>Feel free to explore my repositories and connect for exciting collaborations.</samp>
+ </h3>
+
